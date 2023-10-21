@@ -35,4 +35,4 @@ true).Key){case 37:dx=-1;dy=0;break;case 39
 ```
 I tried to copy a form from the Python logo, but...
 
-Thanks to xero for the [Text art Python logo](https://gist.github.com/xero/3555086)
+Thanks to xero for the [Python logo text art](https://gist.github.com/xero/3555086)
